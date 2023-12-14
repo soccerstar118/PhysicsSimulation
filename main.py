@@ -444,4 +444,4 @@ def ex_7():
         clock.tick(fps)  # fps= 60
 
 
-func1()
+func2()
